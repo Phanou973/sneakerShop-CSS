@@ -4,3 +4,12 @@
 html, body{
    font-family: 'Poppins', sans-serif;
 }
+nav ul{
+  list-style: none;
+  display: inline-block;
+
+}
+
+
+
+
